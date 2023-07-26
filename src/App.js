@@ -5,7 +5,7 @@ import './App.css';
 function App() {
   return (
     <div className="App-header">
-      <h2>Mujju Palaan</h2>
+      <h2>Mujju Palan</h2>
       <div>
         <ExpenseItem 
           title={ExpenseData[0].title} 
