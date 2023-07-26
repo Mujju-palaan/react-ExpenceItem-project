@@ -1,1 +1,3 @@
-# react-ExpenceItem-project
+# React-Practice
+To start the server 
+1. npm start
