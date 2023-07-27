@@ -27,6 +27,7 @@ function App() {
           amount={ExpenseData[3].amount} 
           date={ExpenseData[3].date}>
         </ExpenseItem>
+        
       </div>
     </div>
   );
